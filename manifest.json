@@ -1,0 +1,17 @@
+{
+  "id": "./index.html",
+  "name": "Rent A Cars Go",
+  "short_name": "RAC Go",
+  "description": "Türkiye'nin 81 ilinde araç kiralama.",
+  "lang": "tr-TR",
+  "start_url": "./index.html?source=app",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "app-icon-192.png?v=6", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "app-icon-512.png?v=6", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

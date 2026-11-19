@@ -1,0 +1,14 @@
+GITHUB PAGES - GEÇİCİ YAYIN
+
+1) Bu ZIP içeriğini GitHub'da boş bir repository'nin ana dizinine yükleyin.
+2) Repository > Settings > Pages bölümüne girin.
+3) Deploy from a branch seçin; Branch: main, Folder: / (root) seçip Save deyin.
+4) GitHub birkaç dakika içinde https://KULLANICI.github.io/REPOSITORY/ adresini verir.
+
+ÖNEMLİ SINIRLAR:
+- Bu sürüm PHP gerektirmez ve GitHub Pages üzerinde açılır.
+- Araç listesi, tasarım ve iletişim bağlantıları statiktir.
+- Yönetim panelindeki düzenlemeler yalnızca o tarayıcıda localStorage ile saklanır; ziyaretçilere ortak şekilde yansımaz.
+- Rezervasyon/iletişim talepleri sunucuya kaydedilmez; telefon ve WhatsApp bağlantıları kullanılabilir.
+- Telefon ve WhatsApp numaralarını config.js içinden girin.
+- Geçici yayın içindir; kalıcı yönetim paneli için PHP sunucusu geri geldiğinde orijinal backend sürümüne dönün.
